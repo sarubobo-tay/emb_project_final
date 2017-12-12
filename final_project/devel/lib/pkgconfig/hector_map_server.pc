@@ -1,0 +1,8 @@
+prefix=/home/sherman-tay/emb_project_final/final_project/devel
+
+Name: hector_map_server
+Description: Description of hector_map_server
+Version: 0.3.5
+Cflags: 
+Libs: -L/home/sherman-tay/emb_project_final/final_project/devel/lib 
+Requires: 

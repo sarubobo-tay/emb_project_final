@@ -1,0 +1,8 @@
+prefix=/home/sherman-tay/emb_project_final/final_project/devel
+
+Name: depthimage_to_laserscan
+Description: Description of depthimage_to_laserscan
+Version: 1.0.7
+Cflags: -I/home/sherman-tay/emb_project_final/final_project/devel/include -I/home/sherman-tay/emb_project_final/final_project/src/depthimage_to_laserscan/include
+Libs: -L/home/sherman-tay/emb_project_final/final_project/devel/lib -lDepthImageToLaserScan -lDepthImageToLaserScanROS -lDepthImageToLaserScanNodelet
+Requires: dynamic_reconfigure image_geometry image_transport nodelet roscpp sensor_msgs
