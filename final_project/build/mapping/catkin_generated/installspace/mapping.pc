@@ -1,8 +1,8 @@
-prefix=/home/cc/ee106a/fa17/class/ee106a-adp/emb_workspace/final_project/install
+prefix=/home/sherman-tay/emb_project_final/final_project/install
 
 Name: mapping
 Description: Description of mapping
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/cc/ee106a/fa17/class/ee106a-adp/emb_workspace/final_project/install/lib -lmapping
+Libs: -L/home/sherman-tay/emb_project_final/final_project/install/lib -lmapping
 Requires: rospy visualization_msgs geometry_msgs std_msgs tf2_ros

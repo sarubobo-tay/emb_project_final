@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "rospy;visualization_msgs;geometry_msgs;std_msgs;tf2_ros".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "-lmapping".split(';') if "-lmapping" != "" else []
 PROJECT_NAME = "mapping"
-PROJECT_SPACE_DIR = "/home/cc/ee106a/fa17/class/ee106a-adp/emb_workspace/final_project/install"
+PROJECT_SPACE_DIR = "/home/sherman-tay/emb_project_final/final_project/install"
 PROJECT_VERSION = "0.0.0"
